@@ -182,3 +182,4 @@ test("button increments counter", () => {
 - Tweak implementation — iteration 20 (2026)
 - Add tests — iteration 29 (2026)
 - Improve naming — iteration 37 (2026)
+- Add example — iteration 49 (2026)
