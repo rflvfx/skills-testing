@@ -176,3 +176,4 @@ describe("sum", () => {
 - Tweak implementation — iteration 30 (2026)
 - Fix lint warnings — iteration 33 (2026)
 - Improve naming — iteration 38 (2026)
+- Fix typo — iteration 43 (2026)
