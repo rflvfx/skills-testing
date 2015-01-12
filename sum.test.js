@@ -8,3 +8,4 @@ describe("sum", () => {
 - Add helper — iteration 3 (2015)
 - Improve error handling — iteration 4 (2015)
 - Refactor module — iteration 10 (2015)
+- Tweak implementation — iteration 12 (2015)
