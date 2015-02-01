@@ -7,3 +7,4 @@ describe("sum", () => {
 - Optimize performance — iteration 2 (2015)
 - Add helper — iteration 3 (2015)
 - Improve error handling — iteration 4 (2015)
+- Refactor module — iteration 10 (2015)
