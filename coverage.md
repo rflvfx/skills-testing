@@ -5,3 +5,4 @@
 - e2e: so caminhos criticos
 - coverage e guia, nao meta — 100% != sem bugs
 - Refactor module — iteration 11 (2015)
+- Polish code — iteration 13 (2015)
