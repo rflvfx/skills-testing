@@ -9,3 +9,4 @@ describe("login", () => {
 });
 - Improve naming — iteration 1 (2015)
 - Improve naming — iteration 6 (2015)
+- Fix lint warnings — iteration 7 (2015)
