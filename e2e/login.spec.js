@@ -12,3 +12,4 @@ describe("login", () => {
 - Fix lint warnings — iteration 7 (2015)
 - Add helper — iteration 8 (2015)
 - Fix lint warnings — iteration 32 (2015)
+- Update dependencies — iteration 39 (2015)
