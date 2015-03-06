@@ -14,3 +14,4 @@
 - Extend coverage — iteration 45 (2015)
 - Refactor module — iteration 47 (2015)
 - Add feature — iteration 51 (2015)
+- Update docs — iteration 57 (2015)
