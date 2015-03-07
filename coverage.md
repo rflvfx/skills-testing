@@ -8,3 +8,4 @@
 - Polish code — iteration 13 (2015)
 - Document usage — iteration 16 (2015)
 - Document usage — iteration 22 (2015)
+- Update dependencies — iteration 25 (2015)
