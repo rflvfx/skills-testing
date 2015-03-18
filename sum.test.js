@@ -14,3 +14,4 @@ describe("sum", () => {
 - Extend coverage — iteration 19 (2015)
 - Minor cleanup — iteration 21 (2015)
 - Optimize performance — iteration 23 (2015)
+- Fix typo — iteration 26 (2015)
