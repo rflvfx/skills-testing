@@ -10,3 +10,4 @@ test("button increments counter", () => {
 - Fix edge case — iteration 14 (2015)
 - Update dependencies — iteration 17 (2015)
 - Add feature — iteration 20 (2015)
+- Tweak implementation — iteration 24 (2015)
