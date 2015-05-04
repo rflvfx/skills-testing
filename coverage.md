@@ -12,3 +12,4 @@
 - Add helper — iteration 37 (2015)
 - Add tests — iteration 44 (2015)
 - Extend coverage — iteration 45 (2015)
+- Refactor module — iteration 47 (2015)
