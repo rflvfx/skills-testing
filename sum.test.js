@@ -19,3 +19,4 @@ describe("sum", () => {
 - Tweak implementation — iteration 29 (2015)
 - Update docs — iteration 34 (2015)
 - Add helper — iteration 35 (2015)
+- Document usage — iteration 36 (2015)
