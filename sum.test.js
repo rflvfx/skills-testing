@@ -15,3 +15,4 @@ describe("sum", () => {
 - Minor cleanup — iteration 21 (2015)
 - Optimize performance — iteration 23 (2015)
 - Fix typo — iteration 26 (2015)
+- Refactor module — iteration 28 (2015)
