@@ -13,3 +13,4 @@ describe("sum", () => {
 - Add tests — iteration 18 (2015)
 - Extend coverage — iteration 19 (2015)
 - Minor cleanup — iteration 21 (2015)
+- Optimize performance — iteration 23 (2015)
