@@ -9,3 +9,4 @@
 - Document usage — iteration 16 (2015)
 - Document usage — iteration 22 (2015)
 - Update dependencies — iteration 25 (2015)
+- Add helper — iteration 37 (2015)
