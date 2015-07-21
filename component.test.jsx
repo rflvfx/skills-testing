@@ -18,3 +18,4 @@ test("button increments counter", () => {
 - Fix lint warnings — iteration 38 (2015)
 - Tweak implementation — iteration 40 (2015)
 - Minor cleanup — iteration 43 (2015)
+- Add helper — iteration 46 (2015)
