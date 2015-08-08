@@ -11,3 +11,4 @@ describe("sum", () => {
 - Tweak implementation — iteration 12 (2015)
 - Update dependencies — iteration 15 (2015)
 - Add tests — iteration 18 (2015)
+- Extend coverage — iteration 19 (2015)
