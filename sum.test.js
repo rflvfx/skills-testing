@@ -21,3 +21,4 @@ describe("sum", () => {
 - Add helper — iteration 35 (2015)
 - Document usage — iteration 36 (2015)
 - Improve naming — iteration 41 (2015)
+- Update docs — iteration 42 (2015)
