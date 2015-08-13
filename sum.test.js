@@ -23,3 +23,4 @@ describe("sum", () => {
 - Improve naming — iteration 41 (2015)
 - Update docs — iteration 42 (2015)
 - Fix edge case — iteration 48 (2015)
+- Update docs — iteration 52 (2015)
