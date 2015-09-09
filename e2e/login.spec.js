@@ -16,3 +16,4 @@ describe("login", () => {
 - Add example — iteration 49 (2015)
 - Add tests — iteration 54 (2015)
 - Add tests — iteration 56 (2015)
+- Refactor module — iteration 60 (2015)
