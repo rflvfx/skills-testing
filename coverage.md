@@ -6,3 +6,4 @@
 - coverage e guia, nao meta — 100% != sem bugs
 - Refactor module — iteration 11 (2015)
 - Polish code — iteration 13 (2015)
+- Document usage — iteration 16 (2015)
