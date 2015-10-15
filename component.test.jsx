@@ -9,3 +9,4 @@ test("button increments counter", () => {
 - Refactor module — iteration 9 (2015)
 - Fix edge case — iteration 14 (2015)
 - Update dependencies — iteration 17 (2015)
+- Add feature — iteration 20 (2015)
