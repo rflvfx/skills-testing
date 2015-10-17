@@ -8,3 +8,4 @@ test("button increments counter", () => {
 - Fix lint warnings — iteration 5 (2015)
 - Refactor module — iteration 9 (2015)
 - Fix edge case — iteration 14 (2015)
+- Update dependencies — iteration 17 (2015)
