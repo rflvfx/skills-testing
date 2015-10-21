@@ -17,3 +17,4 @@ describe("sum", () => {
 - Fix typo — iteration 26 (2015)
 - Refactor module — iteration 28 (2015)
 - Tweak implementation — iteration 29 (2015)
+- Update docs — iteration 34 (2015)
