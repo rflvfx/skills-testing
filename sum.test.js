@@ -10,3 +10,4 @@ describe("sum", () => {
 - Refactor module — iteration 10 (2015)
 - Tweak implementation — iteration 12 (2015)
 - Update dependencies — iteration 15 (2015)
+- Add tests — iteration 18 (2015)
