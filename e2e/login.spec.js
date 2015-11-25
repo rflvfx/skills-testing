@@ -7,3 +7,4 @@ describe("login", () => {
     cy.url().should("include", "/dashboard");
   });
 });
+- Improve naming — iteration 1 (2015)
