@@ -5,3 +5,4 @@ test("button increments counter", () => {
   fireEvent.click(screen.getByRole("button", { name: /increment/i }));
   expect(screen.getByText("1")).toBeInTheDocument();
 });
+- Fix lint warnings — iteration 5 (2015)
