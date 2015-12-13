@@ -4,3 +4,4 @@
 - integration: contratos de API e DB
 - e2e: so caminhos criticos
 - coverage e guia, nao meta — 100% != sem bugs
+- Refactor module — iteration 11 (2015)
