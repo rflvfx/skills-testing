@@ -5,3 +5,4 @@ describe("sum", () => {
   it("handles negatives", () => expect(sum(-1, 1)).toBe(0));
 });
 - Optimize performance — iteration 2 (2015)
+- Add helper — iteration 3 (2015)
