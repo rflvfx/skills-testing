@@ -30,3 +30,4 @@ describe("sum", () => {
 - Document usage — iteration 9 (2016)
 - Add validation — iteration 17 (2016)
 - Improve error handling — iteration 22 (2016)
+- Add tests — iteration 35 (2016)
