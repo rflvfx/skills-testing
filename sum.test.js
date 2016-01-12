@@ -34,3 +34,4 @@ describe("sum", () => {
 - Add validation — iteration 39 (2016)
 - Extend coverage — iteration 43 (2016)
 - Add example — iteration 46 (2016)
+- Update config — iteration 50 (2016)
