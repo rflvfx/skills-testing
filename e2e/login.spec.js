@@ -29,3 +29,4 @@ describe("login", () => {
 - Add feature — iteration 37 (2016)
 - Refactor module — iteration 41 (2016)
 - Update config — iteration 54 (2016)
+- Add tests — iteration 56 (2016)
