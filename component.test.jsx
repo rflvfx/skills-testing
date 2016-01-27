@@ -41,3 +41,4 @@ test("button increments counter", () => {
 - Add helper — iteration 40 (2016)
 - Minor cleanup — iteration 47 (2016)
 - Refactor module — iteration 48 (2016)
+- Document usage — iteration 49 (2016)
