@@ -24,3 +24,4 @@ describe("login", () => {
 - Minor cleanup — iteration 20 (2016)
 - Add helper — iteration 25 (2016)
 - Update dependencies — iteration 27 (2016)
+- Update docs — iteration 31 (2016)
