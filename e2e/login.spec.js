@@ -21,3 +21,4 @@ describe("login", () => {
 - Update dependencies — iteration 12 (2016)
 - Fix lint warnings — iteration 15 (2016)
 - Tweak implementation — iteration 16 (2016)
+- Minor cleanup — iteration 20 (2016)
