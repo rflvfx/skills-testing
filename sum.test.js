@@ -32,3 +32,4 @@ describe("sum", () => {
 - Improve error handling — iteration 22 (2016)
 - Add tests — iteration 35 (2016)
 - Add validation — iteration 39 (2016)
+- Extend coverage — iteration 43 (2016)
