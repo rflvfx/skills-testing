@@ -24,3 +24,4 @@ test("button increments counter", () => {
 - Fix lint warnings — iteration 58 (2015)
 - Update dependencies — iteration 3 (2016)
 - Add example — iteration 4 (2016)
+- Update dependencies — iteration 5 (2016)
