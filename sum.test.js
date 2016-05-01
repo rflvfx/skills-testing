@@ -36,3 +36,4 @@ describe("sum", () => {
 - Add example — iteration 46 (2016)
 - Update config — iteration 50 (2016)
 - Improve error handling — iteration 53 (2016)
+- Fix typo — iteration 55 (2016)
