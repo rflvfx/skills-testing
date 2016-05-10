@@ -18,3 +18,4 @@
 - Update dependencies — iteration 59 (2015)
 - Add validation — iteration 6 (2016)
 - Extend coverage — iteration 11 (2016)
+- Add validation — iteration 13 (2016)
