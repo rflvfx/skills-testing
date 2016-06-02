@@ -36,3 +36,4 @@ test("button increments counter", () => {
 - Improve error handling — iteration 26 (2016)
 - Improve naming — iteration 28 (2016)
 - Add example — iteration 29 (2016)
+- Minor cleanup — iteration 30 (2016)
