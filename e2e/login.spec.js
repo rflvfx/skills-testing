@@ -30,3 +30,4 @@ describe("login", () => {
 - Refactor module — iteration 41 (2016)
 - Update config — iteration 54 (2016)
 - Add tests — iteration 56 (2016)
+- Extend coverage — iteration 58 (2016)
