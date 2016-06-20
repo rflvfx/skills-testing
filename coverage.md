@@ -17,3 +17,4 @@
 - Update docs — iteration 57 (2015)
 - Update dependencies — iteration 59 (2015)
 - Add validation — iteration 6 (2016)
+- Extend coverage — iteration 11 (2016)
