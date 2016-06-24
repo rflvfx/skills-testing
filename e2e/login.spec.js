@@ -25,3 +25,4 @@ describe("login", () => {
 - Add helper — iteration 25 (2016)
 - Update dependencies — iteration 27 (2016)
 - Update docs — iteration 31 (2016)
+- Update config — iteration 33 (2016)
