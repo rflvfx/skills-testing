@@ -27,3 +27,4 @@ test("button increments counter", () => {
 - Update dependencies — iteration 5 (2016)
 - Minor cleanup — iteration 8 (2016)
 - Tweak implementation — iteration 10 (2016)
+- Add validation — iteration 14 (2016)
