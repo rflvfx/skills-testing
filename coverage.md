@@ -28,3 +28,4 @@
 - Fix edge case — iteration 51 (2016)
 - Add tests — iteration 57 (2016)
 - Fix lint warnings — iteration 59 (2016)
+- Improve error handling — iteration 60 (2016)
