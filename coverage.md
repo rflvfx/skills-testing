@@ -25,3 +25,4 @@
 - Document usage — iteration 42 (2016)
 - Tweak implementation — iteration 44 (2016)
 - Document usage — iteration 45 (2016)
+- Fix edge case — iteration 51 (2016)
