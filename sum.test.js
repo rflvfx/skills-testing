@@ -35,3 +35,4 @@ describe("sum", () => {
 - Extend coverage — iteration 43 (2016)
 - Add example — iteration 46 (2016)
 - Update config — iteration 50 (2016)
+- Improve error handling — iteration 53 (2016)
