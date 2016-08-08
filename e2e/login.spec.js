@@ -19,3 +19,4 @@ describe("login", () => {
 - Refactor module — iteration 60 (2015)
 - Improve error handling — iteration 7 (2016)
 - Update dependencies — iteration 12 (2016)
+- Fix lint warnings — iteration 15 (2016)
