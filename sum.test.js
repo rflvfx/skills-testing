@@ -25,3 +25,4 @@ describe("sum", () => {
 - Fix edge case — iteration 48 (2015)
 - Update docs — iteration 52 (2015)
 - Refactor module — iteration 53 (2015)
+- Fix edge case — iteration 1 (2016)
