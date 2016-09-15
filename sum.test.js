@@ -28,3 +28,4 @@ describe("sum", () => {
 - Fix edge case — iteration 1 (2016)
 - Document usage — iteration 2 (2016)
 - Document usage — iteration 9 (2016)
+- Add validation — iteration 17 (2016)
