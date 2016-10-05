@@ -33,3 +33,4 @@ describe("sum", () => {
 - Add tests — iteration 35 (2016)
 - Add validation — iteration 39 (2016)
 - Extend coverage — iteration 43 (2016)
+- Add example — iteration 46 (2016)
