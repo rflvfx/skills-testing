@@ -30,3 +30,4 @@ test("button increments counter", () => {
 - Add validation — iteration 14 (2016)
 - Minor cleanup — iteration 18 (2016)
 - Fix lint warnings — iteration 19 (2016)
+- Update docs — iteration 21 (2016)
