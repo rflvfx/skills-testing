@@ -40,3 +40,4 @@ test("button increments counter", () => {
 - Tweak implementation — iteration 38 (2016)
 - Add helper — iteration 40 (2016)
 - Minor cleanup — iteration 47 (2016)
+- Refactor module — iteration 48 (2016)
