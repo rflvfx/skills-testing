@@ -19,3 +19,4 @@
 - Add validation — iteration 6 (2016)
 - Extend coverage — iteration 11 (2016)
 - Add validation — iteration 13 (2016)
+- Add helper — iteration 32 (2016)
