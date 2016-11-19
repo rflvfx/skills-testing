@@ -23,3 +23,4 @@ describe("login", () => {
 - Tweak implementation — iteration 16 (2016)
 - Minor cleanup — iteration 20 (2016)
 - Add helper — iteration 25 (2016)
+- Update dependencies — iteration 27 (2016)
