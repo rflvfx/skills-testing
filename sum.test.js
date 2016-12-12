@@ -26,3 +26,4 @@ describe("sum", () => {
 - Update docs — iteration 52 (2015)
 - Refactor module — iteration 53 (2015)
 - Fix edge case — iteration 1 (2016)
+- Document usage — iteration 2 (2016)
