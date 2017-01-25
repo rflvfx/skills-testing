@@ -42,3 +42,4 @@ describe("sum", () => {
 - Add example — iteration 12 (2017)
 - Improve error handling — iteration 28 (2017)
 - Improve naming — iteration 34 (2017)
+- Improve naming — iteration 36 (2017)
