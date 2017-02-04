@@ -50,3 +50,4 @@ describe("sum", () => {
 - Fix lint warnings — iteration 53 (2017)
 - Minor cleanup — iteration 56 (2017)
 - Update docs — iteration 57 (2017)
+- Update docs — iteration 58 (2017)
