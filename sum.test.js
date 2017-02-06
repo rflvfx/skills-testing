@@ -40,3 +40,4 @@ describe("sum", () => {
 - Update dependencies — iteration 2 (2017)
 - Tweak implementation — iteration 6 (2017)
 - Add example — iteration 12 (2017)
+- Improve error handling — iteration 28 (2017)
