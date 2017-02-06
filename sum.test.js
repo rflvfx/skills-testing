@@ -38,3 +38,4 @@ describe("sum", () => {
 - Improve error handling — iteration 53 (2016)
 - Fix typo — iteration 55 (2016)
 - Update dependencies — iteration 2 (2017)
+- Tweak implementation — iteration 6 (2017)
