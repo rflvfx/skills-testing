@@ -42,3 +42,4 @@
 - Add example — iteration 31 (2017)
 - Tweak implementation — iteration 33 (2017)
 - Document usage — iteration 35 (2017)
+- Update config — iteration 38 (2017)
