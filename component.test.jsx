@@ -44,3 +44,4 @@ test("button increments counter", () => {
 - Document usage — iteration 49 (2016)
 - Fix lint warnings — iteration 52 (2016)
 - Add example — iteration 1 (2017)
+- Optimize performance — iteration 3 (2017)
