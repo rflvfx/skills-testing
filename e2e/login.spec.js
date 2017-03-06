@@ -39,3 +39,4 @@ describe("login", () => {
 - Extend coverage — iteration 37 (2017)
 - Document usage — iteration 41 (2017)
 - Document usage — iteration 43 (2017)
+- Update docs — iteration 47 (2017)
