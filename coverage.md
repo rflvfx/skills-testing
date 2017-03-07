@@ -33,3 +33,4 @@
 - Extend coverage — iteration 5 (2017)
 - Fix lint warnings — iteration 11 (2017)
 - Fix edge case — iteration 14 (2017)
+- Minor cleanup — iteration 18 (2017)
