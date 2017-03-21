@@ -37,3 +37,4 @@
 - Extend coverage — iteration 19 (2017)
 - Add tests — iteration 21 (2017)
 - Document usage — iteration 22 (2017)
+- Improve error handling — iteration 24 (2017)
