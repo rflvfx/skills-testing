@@ -55,3 +55,4 @@ test("button increments counter", () => {
 - Optimize performance — iteration 27 (2017)
 - Add tests — iteration 29 (2017)
 - Refactor module — iteration 32 (2017)
+- Polish code — iteration 40 (2017)
