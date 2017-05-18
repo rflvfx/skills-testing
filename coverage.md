@@ -36,3 +36,4 @@
 - Minor cleanup — iteration 18 (2017)
 - Extend coverage — iteration 19 (2017)
 - Add tests — iteration 21 (2017)
+- Document usage — iteration 22 (2017)
