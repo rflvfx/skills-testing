@@ -43,3 +43,4 @@
 - Tweak implementation — iteration 33 (2017)
 - Document usage — iteration 35 (2017)
 - Update config — iteration 38 (2017)
+- Improve naming — iteration 42 (2017)
