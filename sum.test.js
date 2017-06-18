@@ -39,3 +39,4 @@ describe("sum", () => {
 - Fix typo — iteration 55 (2016)
 - Update dependencies — iteration 2 (2017)
 - Tweak implementation — iteration 6 (2017)
+- Add example — iteration 12 (2017)
