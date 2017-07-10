@@ -37,3 +37,4 @@ describe("login", () => {
 - Document usage — iteration 25 (2017)
 - Optimize performance — iteration 26 (2017)
 - Extend coverage — iteration 37 (2017)
+- Document usage — iteration 41 (2017)
