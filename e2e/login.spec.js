@@ -34,3 +34,4 @@ describe("login", () => {
 - Update config — iteration 10 (2017)
 - Extend coverage — iteration 15 (2017)
 - Document usage — iteration 17 (2017)
+- Document usage — iteration 25 (2017)
