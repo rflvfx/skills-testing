@@ -46,3 +46,4 @@ describe("sum", () => {
 - Add validation — iteration 39 (2017)
 - Tweak implementation — iteration 46 (2017)
 - Extend coverage — iteration 48 (2017)
+- Update docs — iteration 51 (2017)
