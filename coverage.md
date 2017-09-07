@@ -30,3 +30,4 @@
 - Fix lint warnings — iteration 59 (2016)
 - Improve error handling — iteration 60 (2016)
 - Update dependencies — iteration 4 (2017)
+- Extend coverage — iteration 5 (2017)
