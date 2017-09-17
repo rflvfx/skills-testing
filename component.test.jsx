@@ -58,3 +58,4 @@ test("button increments counter", () => {
 - Polish code — iteration 40 (2017)
 - Add feature — iteration 44 (2017)
 - Update config — iteration 45 (2017)
+- Fix lint warnings — iteration 54 (2017)
