@@ -51,3 +51,4 @@ describe("sum", () => {
 - Minor cleanup — iteration 56 (2017)
 - Update docs — iteration 57 (2017)
 - Update docs — iteration 58 (2017)
+- Add tests — iteration 59 (2017)
