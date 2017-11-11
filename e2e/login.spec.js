@@ -40,3 +40,4 @@ describe("login", () => {
 - Document usage — iteration 41 (2017)
 - Document usage — iteration 43 (2017)
 - Update docs — iteration 47 (2017)
+- Tweak implementation — iteration 50 (2017)
