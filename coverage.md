@@ -29,3 +29,4 @@
 - Add tests — iteration 57 (2016)
 - Fix lint warnings — iteration 59 (2016)
 - Improve error handling — iteration 60 (2016)
+- Update dependencies — iteration 4 (2017)
