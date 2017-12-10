@@ -40,3 +40,4 @@
 - Improve error handling — iteration 24 (2017)
 - Add helper — iteration 30 (2017)
 - Add example — iteration 31 (2017)
+- Tweak implementation — iteration 33 (2017)
