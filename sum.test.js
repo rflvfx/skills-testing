@@ -47,3 +47,4 @@ describe("sum", () => {
 - Tweak implementation — iteration 46 (2017)
 - Extend coverage — iteration 48 (2017)
 - Update docs — iteration 51 (2017)
+- Fix lint warnings — iteration 53 (2017)
