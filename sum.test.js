@@ -37,3 +37,4 @@ describe("sum", () => {
 - Update config — iteration 50 (2016)
 - Improve error handling — iteration 53 (2016)
 - Fix typo — iteration 55 (2016)
+- Update dependencies — iteration 2 (2017)
