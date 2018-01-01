@@ -61,3 +61,4 @@ describe("sum", () => {
 - Extend coverage — iteration 41 (2018)
 - Add validation — iteration 43 (2018)
 - Refactor module — iteration 45 (2018)
+- Minor cleanup — iteration 53 (2018)
