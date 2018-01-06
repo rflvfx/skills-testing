@@ -57,3 +57,4 @@ describe("login", () => {
 - Add feature — iteration 37 (2018)
 - Add feature — iteration 39 (2018)
 - Add validation — iteration 40 (2018)
+- Document usage — iteration 42 (2018)
