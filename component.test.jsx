@@ -67,3 +67,4 @@ test("button increments counter", () => {
 - Document usage — iteration 10 (2018)
 - Fix edge case — iteration 11 (2018)
 - Add validation — iteration 17 (2018)
+- Tweak implementation — iteration 22 (2018)
