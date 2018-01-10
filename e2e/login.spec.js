@@ -44,3 +44,4 @@ describe("login", () => {
 - Add feature — iteration 52 (2017)
 - Update dependencies — iteration 55 (2017)
 - Update docs — iteration 1 (2018)
+- Document usage — iteration 8 (2018)
