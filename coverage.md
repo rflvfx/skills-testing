@@ -52,3 +52,4 @@
 - Update dependencies — iteration 23 (2018)
 - Improve naming — iteration 24 (2018)
 - Extend coverage — iteration 25 (2018)
+- Add example — iteration 60 (2018)
