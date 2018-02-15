@@ -46,3 +46,4 @@
 - Improve naming — iteration 42 (2017)
 - Add example — iteration 49 (2017)
 - Document usage — iteration 9 (2018)
+- Fix edge case — iteration 12 (2018)
