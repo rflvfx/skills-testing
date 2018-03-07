@@ -58,3 +58,4 @@ describe("sum", () => {
 - Document usage — iteration 28 (2018)
 - Update config — iteration 34 (2018)
 - Update dependencies — iteration 35 (2018)
+- Extend coverage — iteration 41 (2018)
