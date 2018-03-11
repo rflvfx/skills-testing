@@ -51,3 +51,4 @@ describe("login", () => {
 - Fix typo — iteration 18 (2018)
 - Add example — iteration 20 (2018)
 - Extend coverage — iteration 26 (2018)
+- Update config — iteration 27 (2018)
