@@ -51,3 +51,4 @@
 - Extend coverage — iteration 21 (2018)
 - Update dependencies — iteration 23 (2018)
 - Improve naming — iteration 24 (2018)
+- Extend coverage — iteration 25 (2018)
