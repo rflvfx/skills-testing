@@ -56,3 +56,4 @@ describe("sum", () => {
 - Add validation — iteration 2 (2018)
 - Optimize performance — iteration 19 (2018)
 - Document usage — iteration 28 (2018)
+- Update config — iteration 34 (2018)
