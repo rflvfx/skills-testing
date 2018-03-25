@@ -46,3 +46,4 @@ describe("login", () => {
 - Update docs — iteration 1 (2018)
 - Document usage — iteration 8 (2018)
 - Fix edge case — iteration 13 (2018)
+- Fix typo — iteration 14 (2018)
