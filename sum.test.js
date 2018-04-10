@@ -53,3 +53,4 @@ describe("sum", () => {
 - Update docs — iteration 58 (2017)
 - Add tests — iteration 59 (2017)
 - Add feature — iteration 60 (2017)
+- Add validation — iteration 2 (2018)
