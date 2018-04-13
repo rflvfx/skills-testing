@@ -45,3 +45,4 @@
 - Update config — iteration 38 (2017)
 - Improve naming — iteration 42 (2017)
 - Add example — iteration 49 (2017)
+- Document usage — iteration 9 (2018)
