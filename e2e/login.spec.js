@@ -53,3 +53,4 @@ describe("login", () => {
 - Extend coverage — iteration 26 (2018)
 - Update config — iteration 27 (2018)
 - Update docs — iteration 29 (2018)
+- Add example — iteration 30 (2018)
