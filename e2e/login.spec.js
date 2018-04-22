@@ -52,3 +52,4 @@ describe("login", () => {
 - Add example — iteration 20 (2018)
 - Extend coverage — iteration 26 (2018)
 - Update config — iteration 27 (2018)
+- Update docs — iteration 29 (2018)
