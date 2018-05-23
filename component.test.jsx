@@ -77,3 +77,4 @@ test("button increments counter", () => {
 - Fix edge case — iteration 46 (2018)
 - Minor cleanup — iteration 48 (2018)
 - Minor cleanup — iteration 49 (2018)
+- Add example — iteration 51 (2018)
