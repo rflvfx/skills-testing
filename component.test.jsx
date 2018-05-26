@@ -62,3 +62,4 @@ test("button increments counter", () => {
 - Refactor module — iteration 3 (2018)
 - Minor cleanup — iteration 4 (2018)
 - Document usage — iteration 5 (2018)
+- Add validation — iteration 6 (2018)
