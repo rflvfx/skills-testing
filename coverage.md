@@ -49,3 +49,4 @@
 - Fix edge case — iteration 12 (2018)
 - Add example — iteration 15 (2018)
 - Extend coverage — iteration 21 (2018)
+- Update dependencies — iteration 23 (2018)
