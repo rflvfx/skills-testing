@@ -47,3 +47,4 @@
 - Add example — iteration 49 (2017)
 - Document usage — iteration 9 (2018)
 - Fix edge case — iteration 12 (2018)
+- Add example — iteration 15 (2018)
