@@ -64,3 +64,4 @@ describe("sum", () => {
 - Minor cleanup — iteration 53 (2018)
 - Optimize performance — iteration 54 (2018)
 - Update dependencies — iteration 55 (2018)
+- Improve naming — iteration 58 (2018)
