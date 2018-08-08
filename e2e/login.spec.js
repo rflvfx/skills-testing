@@ -48,3 +48,4 @@ describe("login", () => {
 - Fix edge case — iteration 13 (2018)
 - Fix typo — iteration 14 (2018)
 - Optimize performance — iteration 16 (2018)
+- Fix typo — iteration 18 (2018)
