@@ -61,3 +61,4 @@ test("button increments counter", () => {
 - Fix lint warnings — iteration 54 (2017)
 - Refactor module — iteration 3 (2018)
 - Minor cleanup — iteration 4 (2018)
+- Document usage — iteration 5 (2018)
