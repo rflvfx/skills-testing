@@ -63,3 +63,4 @@ test("button increments counter", () => {
 - Minor cleanup — iteration 4 (2018)
 - Document usage — iteration 5 (2018)
 - Add validation — iteration 6 (2018)
+- Fix typo — iteration 7 (2018)
