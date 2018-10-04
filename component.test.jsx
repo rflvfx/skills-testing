@@ -80,3 +80,4 @@ test("button increments counter", () => {
 - Add example — iteration 51 (2018)
 - Update config — iteration 52 (2018)
 - Polish code — iteration 56 (2018)
+- Add tests — iteration 59 (2018)
