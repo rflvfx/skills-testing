@@ -49,3 +49,4 @@ describe("login", () => {
 - Fix typo — iteration 14 (2018)
 - Optimize performance — iteration 16 (2018)
 - Fix typo — iteration 18 (2018)
+- Add example — iteration 20 (2018)
