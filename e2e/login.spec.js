@@ -50,3 +50,4 @@ describe("login", () => {
 - Optimize performance — iteration 16 (2018)
 - Fix typo — iteration 18 (2018)
 - Add example — iteration 20 (2018)
+- Extend coverage — iteration 26 (2018)
