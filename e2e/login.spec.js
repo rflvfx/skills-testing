@@ -55,3 +55,4 @@ describe("login", () => {
 - Update docs — iteration 29 (2018)
 - Add example — iteration 30 (2018)
 - Add feature — iteration 37 (2018)
+- Add feature — iteration 39 (2018)
