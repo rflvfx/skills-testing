@@ -70,3 +70,4 @@ test("button increments counter", () => {
 - Tweak implementation — iteration 22 (2018)
 - Add validation — iteration 31 (2018)
 - Improve naming — iteration 32 (2018)
+- Add validation — iteration 33 (2018)
