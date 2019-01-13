@@ -66,3 +66,4 @@ describe("login", () => {
 - Minor cleanup — iteration 6 (2019)
 - Add feature — iteration 10 (2019)
 - Add tests — iteration 15 (2019)
+- Improve error handling — iteration 21 (2019)
