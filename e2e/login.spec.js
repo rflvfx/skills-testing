@@ -75,3 +75,4 @@ describe("login", () => {
 - Update dependencies — iteration 38 (2019)
 - Improve error handling — iteration 39 (2019)
 - Minor cleanup — iteration 41 (2019)
+- Add validation — iteration 43 (2019)
