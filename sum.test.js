@@ -67,3 +67,4 @@ describe("sum", () => {
 - Improve naming — iteration 58 (2018)
 - Improve error handling — iteration 7 (2019)
 - Add helper — iteration 9 (2019)
+- Update config — iteration 12 (2019)
