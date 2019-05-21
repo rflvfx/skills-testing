@@ -54,3 +54,4 @@
 - Extend coverage — iteration 25 (2018)
 - Add example — iteration 60 (2018)
 - Add example — iteration 1 (2019)
+- Minor cleanup — iteration 4 (2019)
