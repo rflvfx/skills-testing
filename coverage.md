@@ -62,3 +62,4 @@
 - Improve error handling — iteration 18 (2019)
 - Minor cleanup — iteration 23 (2019)
 - Update docs — iteration 29 (2019)
+- Optimize performance — iteration 30 (2019)
