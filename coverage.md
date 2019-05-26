@@ -58,3 +58,4 @@
 - Improve error handling — iteration 8 (2019)
 - Improve naming — iteration 11 (2019)
 - Update config — iteration 13 (2019)
+- Extend coverage — iteration 14 (2019)
