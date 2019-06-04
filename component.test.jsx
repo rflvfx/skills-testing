@@ -82,3 +82,4 @@ test("button increments counter", () => {
 - Polish code — iteration 56 (2018)
 - Add tests — iteration 59 (2018)
 - Refactor module — iteration 2 (2019)
+- Update docs — iteration 17 (2019)
