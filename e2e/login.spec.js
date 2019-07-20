@@ -78,3 +78,4 @@ describe("login", () => {
 - Add validation — iteration 43 (2019)
 - Add tests — iteration 48 (2019)
 - Minor cleanup — iteration 54 (2019)
+- Tweak implementation — iteration 55 (2019)
