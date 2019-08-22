@@ -79,3 +79,4 @@ describe("login", () => {
 - Add tests — iteration 48 (2019)
 - Minor cleanup — iteration 54 (2019)
 - Tweak implementation — iteration 55 (2019)
+- Refactor module — iteration 57 (2019)
