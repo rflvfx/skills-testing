@@ -91,3 +91,4 @@ test("button increments counter", () => {
 - Improve error handling — iteration 42 (2019)
 - Optimize performance — iteration 46 (2019)
 - Improve naming — iteration 51 (2019)
+- Extend coverage — iteration 52 (2019)
