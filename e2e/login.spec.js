@@ -61,3 +61,4 @@ describe("login", () => {
 - Update docs — iteration 47 (2018)
 - Add tests — iteration 50 (2018)
 - Minor cleanup — iteration 57 (2018)
+- Improve naming — iteration 3 (2019)
