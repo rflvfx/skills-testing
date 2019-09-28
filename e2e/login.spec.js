@@ -76,3 +76,4 @@ describe("login", () => {
 - Improve error handling — iteration 39 (2019)
 - Minor cleanup — iteration 41 (2019)
 - Add validation — iteration 43 (2019)
+- Add tests — iteration 48 (2019)
