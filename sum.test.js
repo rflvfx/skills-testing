@@ -66,3 +66,4 @@ describe("sum", () => {
 - Update dependencies — iteration 55 (2018)
 - Improve naming — iteration 58 (2018)
 - Improve error handling — iteration 7 (2019)
+- Add helper — iteration 9 (2019)
