@@ -74,3 +74,4 @@ describe("login", () => {
 - Tweak implementation — iteration 36 (2019)
 - Update dependencies — iteration 38 (2019)
 - Improve error handling — iteration 39 (2019)
+- Minor cleanup — iteration 41 (2019)
