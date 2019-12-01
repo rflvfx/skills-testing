@@ -84,3 +84,4 @@ test("button increments counter", () => {
 - Refactor module — iteration 2 (2019)
 - Update docs — iteration 17 (2019)
 - Update config — iteration 24 (2019)
+- Fix typo — iteration 25 (2019)
