@@ -68,3 +68,4 @@ describe("login", () => {
 - Add tests — iteration 15 (2019)
 - Improve error handling — iteration 21 (2019)
 - Add tests — iteration 22 (2019)
+- Improve error handling — iteration 27 (2019)
