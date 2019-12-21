@@ -72,3 +72,4 @@ describe("sum", () => {
 - Fix edge case — iteration 19 (2019)
 - Update docs — iteration 20 (2019)
 - Fix edge case — iteration 33 (2019)
+- Update config — iteration 37 (2019)
