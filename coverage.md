@@ -55,3 +55,4 @@
 - Add example — iteration 60 (2018)
 - Add example — iteration 1 (2019)
 - Minor cleanup — iteration 4 (2019)
+- Improve error handling — iteration 8 (2019)
