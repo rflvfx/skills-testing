@@ -78,3 +78,4 @@ describe("sum", () => {
 - Refactor module — iteration 47 (2019)
 - Fix edge case — iteration 56 (2019)
 - Polish code — iteration 3 (2020)
+- Refactor module — iteration 4 (2020)
