@@ -98,3 +98,4 @@ test("button increments counter", () => {
 - Document usage — iteration 9 (2020)
 - Improve naming — iteration 11 (2020)
 - Tweak implementation — iteration 15 (2020)
+- Fix lint warnings — iteration 17 (2020)
