@@ -73,3 +73,4 @@
 - Update config — iteration 8 (2020)
 - Update docs — iteration 18 (2020)
 - Add tests — iteration 19 (2020)
+- Improve error handling — iteration 21 (2020)
