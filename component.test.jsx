@@ -94,3 +94,4 @@ test("button increments counter", () => {
 - Extend coverage — iteration 52 (2019)
 - Fix edge case — iteration 59 (2019)
 - Polish code — iteration 2 (2020)
+- Fix edge case — iteration 6 (2020)
