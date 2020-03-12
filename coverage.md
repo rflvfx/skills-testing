@@ -80,3 +80,4 @@
 - Optimize performance — iteration 27 (2020)
 - Improve naming — iteration 31 (2020)
 - Add feature — iteration 32 (2020)
+- Add validation — iteration 40 (2020)
