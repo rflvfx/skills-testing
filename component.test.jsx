@@ -99,3 +99,4 @@ test("button increments counter", () => {
 - Improve naming — iteration 11 (2020)
 - Tweak implementation — iteration 15 (2020)
 - Fix lint warnings — iteration 17 (2020)
+- Polish code — iteration 28 (2020)
