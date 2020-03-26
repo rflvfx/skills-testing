@@ -85,3 +85,4 @@
 - Improve naming — iteration 47 (2020)
 - Add tests — iteration 48 (2020)
 - Add example — iteration 49 (2020)
+- Improve error handling — iteration 51 (2020)
