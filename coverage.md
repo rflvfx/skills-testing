@@ -74,3 +74,4 @@
 - Update docs — iteration 18 (2020)
 - Add tests — iteration 19 (2020)
 - Improve error handling — iteration 21 (2020)
+- Polish code — iteration 23 (2020)
