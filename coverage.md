@@ -71,3 +71,4 @@
 - Update config — iteration 1 (2020)
 - Optimize performance — iteration 5 (2020)
 - Update config — iteration 8 (2020)
+- Update docs — iteration 18 (2020)
