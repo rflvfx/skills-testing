@@ -83,3 +83,4 @@ describe("login", () => {
 - Minor cleanup — iteration 58 (2019)
 - Add tests — iteration 7 (2020)
 - Document usage — iteration 12 (2020)
+- Update config — iteration 13 (2020)
