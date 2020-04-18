@@ -91,3 +91,4 @@ describe("login", () => {
 - Add validation — iteration 37 (2020)
 - Optimize performance — iteration 38 (2020)
 - Extend coverage — iteration 43 (2020)
+- Update docs — iteration 45 (2020)
