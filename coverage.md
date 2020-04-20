@@ -76,3 +76,4 @@
 - Improve error handling — iteration 21 (2020)
 - Polish code — iteration 23 (2020)
 - Fix lint warnings — iteration 24 (2020)
+- Extend coverage — iteration 25 (2020)
