@@ -81,3 +81,4 @@ describe("sum", () => {
 - Refactor module — iteration 4 (2020)
 - Update docs — iteration 10 (2020)
 - Add validation — iteration 14 (2020)
+- Add helper — iteration 20 (2020)
