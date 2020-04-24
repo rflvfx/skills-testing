@@ -88,3 +88,4 @@ describe("login", () => {
 - Add helper — iteration 26 (2020)
 - Improve error handling — iteration 29 (2020)
 - Polish code — iteration 34 (2020)
+- Add validation — iteration 37 (2020)
