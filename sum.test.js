@@ -83,3 +83,4 @@ describe("sum", () => {
 - Add validation — iteration 14 (2020)
 - Add helper — iteration 20 (2020)
 - Update config — iteration 22 (2020)
+- Extend coverage — iteration 30 (2020)
