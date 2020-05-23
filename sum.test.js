@@ -86,3 +86,4 @@ describe("sum", () => {
 - Extend coverage — iteration 30 (2020)
 - Update dependencies — iteration 33 (2020)
 - Update docs — iteration 35 (2020)
+- Add feature — iteration 36 (2020)
