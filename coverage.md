@@ -81,3 +81,4 @@
 - Improve naming — iteration 31 (2020)
 - Add feature — iteration 32 (2020)
 - Add validation — iteration 40 (2020)
+- Fix lint warnings — iteration 41 (2020)
