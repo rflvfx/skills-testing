@@ -102,3 +102,4 @@ test("button increments counter", () => {
 - Polish code — iteration 28 (2020)
 - Update dependencies — iteration 39 (2020)
 - Optimize performance — iteration 42 (2020)
+- Fix lint warnings — iteration 50 (2020)
