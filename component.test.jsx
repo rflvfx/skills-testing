@@ -95,3 +95,4 @@ test("button increments counter", () => {
 - Fix edge case — iteration 59 (2019)
 - Polish code — iteration 2 (2020)
 - Fix edge case — iteration 6 (2020)
+- Document usage — iteration 9 (2020)
