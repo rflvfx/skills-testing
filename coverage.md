@@ -86,3 +86,4 @@
 - Add tests — iteration 48 (2020)
 - Add example — iteration 49 (2020)
 - Improve error handling — iteration 51 (2020)
+- Update docs — iteration 58 (2020)
