@@ -93,3 +93,4 @@ describe("login", () => {
 - Extend coverage — iteration 43 (2020)
 - Update docs — iteration 45 (2020)
 - Tweak implementation — iteration 46 (2020)
+- Fix typo — iteration 53 (2020)
