@@ -88,3 +88,4 @@ describe("sum", () => {
 - Update docs — iteration 35 (2020)
 - Add feature — iteration 36 (2020)
 - Update dependencies — iteration 44 (2020)
+- Update config — iteration 52 (2020)
