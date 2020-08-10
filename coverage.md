@@ -75,3 +75,4 @@
 - Add tests — iteration 19 (2020)
 - Improve error handling — iteration 21 (2020)
 - Polish code — iteration 23 (2020)
+- Fix lint warnings — iteration 24 (2020)
