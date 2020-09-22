@@ -85,3 +85,4 @@ describe("login", () => {
 - Document usage — iteration 12 (2020)
 - Update config — iteration 13 (2020)
 - Polish code — iteration 16 (2020)
+- Add helper — iteration 26 (2020)
