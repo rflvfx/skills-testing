@@ -85,3 +85,4 @@ describe("sum", () => {
 - Update config — iteration 22 (2020)
 - Extend coverage — iteration 30 (2020)
 - Update dependencies — iteration 33 (2020)
+- Update docs — iteration 35 (2020)
