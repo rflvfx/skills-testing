@@ -68,3 +68,4 @@
 - Update config — iteration 49 (2019)
 - Add tests — iteration 50 (2019)
 - Update config — iteration 53 (2019)
+- Update config — iteration 1 (2020)
