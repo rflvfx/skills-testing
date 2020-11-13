@@ -84,3 +84,4 @@ describe("login", () => {
 - Add tests — iteration 7 (2020)
 - Document usage — iteration 12 (2020)
 - Update config — iteration 13 (2020)
+- Polish code — iteration 16 (2020)
