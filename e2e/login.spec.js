@@ -82,3 +82,4 @@ describe("login", () => {
 - Refactor module — iteration 57 (2019)
 - Minor cleanup — iteration 58 (2019)
 - Add tests — iteration 7 (2020)
+- Document usage — iteration 12 (2020)
