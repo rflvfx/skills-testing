@@ -96,3 +96,4 @@ test("button increments counter", () => {
 - Polish code — iteration 2 (2020)
 - Fix edge case — iteration 6 (2020)
 - Document usage — iteration 9 (2020)
+- Improve naming — iteration 11 (2020)
