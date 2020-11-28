@@ -82,3 +82,4 @@ describe("sum", () => {
 - Update docs — iteration 10 (2020)
 - Add validation — iteration 14 (2020)
 - Add helper — iteration 20 (2020)
+- Update config — iteration 22 (2020)
