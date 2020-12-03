@@ -78,3 +78,4 @@
 - Fix lint warnings — iteration 24 (2020)
 - Extend coverage — iteration 25 (2020)
 - Optimize performance — iteration 27 (2020)
+- Improve naming — iteration 31 (2020)
