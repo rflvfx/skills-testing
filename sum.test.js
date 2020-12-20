@@ -80,3 +80,4 @@ describe("sum", () => {
 - Polish code — iteration 3 (2020)
 - Refactor module — iteration 4 (2020)
 - Update docs — iteration 10 (2020)
+- Add validation — iteration 14 (2020)
