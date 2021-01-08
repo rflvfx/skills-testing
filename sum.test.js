@@ -98,3 +98,4 @@ describe("sum", () => {
 - Add example — iteration 10 (2021)
 - Update config — iteration 15 (2021)
 - Fix typo — iteration 20 (2021)
+- Optimize performance — iteration 28 (2021)
