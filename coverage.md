@@ -88,3 +88,4 @@
 - Improve error handling — iteration 51 (2020)
 - Update docs — iteration 58 (2020)
 - Add example — iteration 60 (2020)
+- Fix typo — iteration 6 (2021)
