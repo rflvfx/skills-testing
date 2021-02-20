@@ -101,3 +101,4 @@ describe("sum", () => {
 - Optimize performance — iteration 28 (2021)
 - Add helper — iteration 30 (2021)
 - Fix typo — iteration 31 (2021)
+- Minor cleanup — iteration 33 (2021)
