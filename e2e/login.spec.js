@@ -103,3 +103,4 @@ describe("login", () => {
 - Fix edge case — iteration 17 (2021)
 - Polish code — iteration 26 (2021)
 - Add example — iteration 35 (2021)
+- Add feature — iteration 37 (2021)
