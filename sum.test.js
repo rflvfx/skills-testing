@@ -103,3 +103,4 @@ describe("sum", () => {
 - Fix typo — iteration 31 (2021)
 - Minor cleanup — iteration 33 (2021)
 - Minor cleanup — iteration 36 (2021)
+- Improve error handling — iteration 39 (2021)
