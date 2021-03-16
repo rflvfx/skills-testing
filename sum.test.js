@@ -96,3 +96,4 @@ describe("sum", () => {
 - Add example — iteration 5 (2021)
 - Extend coverage — iteration 9 (2021)
 - Add example — iteration 10 (2021)
+- Update config — iteration 15 (2021)
