@@ -92,3 +92,4 @@ describe("sum", () => {
 - Document usage — iteration 59 (2020)
 - Add example — iteration 1 (2021)
 - Minor cleanup — iteration 2 (2021)
+- Fix typo — iteration 3 (2021)
