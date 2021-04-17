@@ -110,3 +110,4 @@ test("button increments counter", () => {
 - Fix typo — iteration 8 (2021)
 - Fix typo — iteration 18 (2021)
 - Document usage — iteration 19 (2021)
+- Add tests — iteration 21 (2021)
