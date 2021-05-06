@@ -105,3 +105,4 @@ describe("sum", () => {
 - Minor cleanup — iteration 36 (2021)
 - Improve error handling — iteration 39 (2021)
 - Update config — iteration 43 (2021)
+- Update docs — iteration 44 (2021)
