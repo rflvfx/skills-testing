@@ -90,3 +90,4 @@ describe("sum", () => {
 - Update dependencies — iteration 44 (2020)
 - Update config — iteration 52 (2020)
 - Document usage — iteration 59 (2020)
+- Add example — iteration 1 (2021)
