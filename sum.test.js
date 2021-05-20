@@ -107,3 +107,4 @@ describe("sum", () => {
 - Update config — iteration 43 (2021)
 - Update docs — iteration 44 (2021)
 - Add feature — iteration 45 (2021)
+- Minor cleanup — iteration 47 (2021)
