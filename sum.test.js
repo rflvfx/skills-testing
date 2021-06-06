@@ -93,3 +93,4 @@ describe("sum", () => {
 - Add example — iteration 1 (2021)
 - Minor cleanup — iteration 2 (2021)
 - Fix typo — iteration 3 (2021)
+- Add example — iteration 5 (2021)
