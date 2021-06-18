@@ -108,3 +108,4 @@ describe("sum", () => {
 - Update docs — iteration 44 (2021)
 - Add feature — iteration 45 (2021)
 - Minor cleanup — iteration 47 (2021)
+- Improve naming — iteration 48 (2021)
