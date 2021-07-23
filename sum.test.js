@@ -110,3 +110,4 @@ describe("sum", () => {
 - Minor cleanup — iteration 47 (2021)
 - Improve naming — iteration 48 (2021)
 - Add example — iteration 54 (2021)
+- Fix edge case — iteration 57 (2021)
