@@ -97,3 +97,4 @@ describe("login", () => {
 - Improve error handling — iteration 54 (2020)
 - Fix edge case — iteration 55 (2020)
 - Add validation — iteration 11 (2021)
+- Add example — iteration 13 (2021)
