@@ -94,3 +94,4 @@
 - Add example — iteration 25 (2021)
 - Document usage — iteration 27 (2021)
 - Tweak implementation — iteration 29 (2021)
+- Add feature — iteration 34 (2021)
