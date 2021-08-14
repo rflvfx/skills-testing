@@ -91,3 +91,4 @@
 - Fix typo — iteration 6 (2021)
 - Refactor module — iteration 12 (2021)
 - Extend coverage — iteration 24 (2021)
+- Add example — iteration 25 (2021)
