@@ -104,3 +104,4 @@ describe("login", () => {
 - Polish code — iteration 26 (2021)
 - Add example — iteration 35 (2021)
 - Add feature — iteration 37 (2021)
+- Fix typo — iteration 42 (2021)
