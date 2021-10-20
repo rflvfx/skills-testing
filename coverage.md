@@ -93,3 +93,4 @@
 - Extend coverage — iteration 24 (2021)
 - Add example — iteration 25 (2021)
 - Document usage — iteration 27 (2021)
+- Tweak implementation — iteration 29 (2021)
