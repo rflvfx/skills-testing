@@ -101,3 +101,4 @@ describe("login", () => {
 - Document usage — iteration 14 (2021)
 - Update config — iteration 16 (2021)
 - Fix edge case — iteration 17 (2021)
+- Polish code — iteration 26 (2021)
