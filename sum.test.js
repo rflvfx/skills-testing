@@ -102,3 +102,4 @@ describe("sum", () => {
 - Add helper — iteration 30 (2021)
 - Fix typo — iteration 31 (2021)
 - Minor cleanup — iteration 33 (2021)
+- Minor cleanup — iteration 36 (2021)
