@@ -98,3 +98,4 @@ describe("login", () => {
 - Fix edge case — iteration 55 (2020)
 - Add validation — iteration 11 (2021)
 - Add example — iteration 13 (2021)
+- Document usage — iteration 14 (2021)
