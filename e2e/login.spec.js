@@ -99,3 +99,4 @@ describe("login", () => {
 - Add validation — iteration 11 (2021)
 - Add example — iteration 13 (2021)
 - Document usage — iteration 14 (2021)
+- Update config — iteration 16 (2021)
