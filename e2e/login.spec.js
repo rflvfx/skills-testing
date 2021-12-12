@@ -105,3 +105,4 @@ describe("login", () => {
 - Add example — iteration 35 (2021)
 - Add feature — iteration 37 (2021)
 - Fix typo — iteration 42 (2021)
+- Refactor module — iteration 46 (2021)
