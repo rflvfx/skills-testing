@@ -100,3 +100,4 @@ describe("sum", () => {
 - Fix typo — iteration 20 (2021)
 - Optimize performance — iteration 28 (2021)
 - Add helper — iteration 30 (2021)
+- Fix typo — iteration 31 (2021)
