@@ -113,3 +113,4 @@ describe("sum", () => {
 - Fix edge case — iteration 57 (2021)
 - Fix typo — iteration 2 (2022)
 - Minor cleanup — iteration 3 (2022)
+- Improve naming — iteration 14 (2022)
