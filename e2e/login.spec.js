@@ -108,3 +108,4 @@ describe("login", () => {
 - Refactor module — iteration 46 (2021)
 - Update config — iteration 49 (2021)
 - Fix edge case — iteration 5 (2022)
+- Add validation — iteration 7 (2022)
