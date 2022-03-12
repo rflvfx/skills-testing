@@ -117,3 +117,4 @@ describe("login", () => {
 - Polish code — iteration 25 (2022)
 - Improve naming — iteration 35 (2022)
 - Minor cleanup — iteration 38 (2022)
+- Add example — iteration 45 (2022)
