@@ -115,3 +115,4 @@ describe("login", () => {
 - Refactor module — iteration 17 (2022)
 - Refactor module — iteration 23 (2022)
 - Polish code — iteration 25 (2022)
+- Improve naming — iteration 35 (2022)
