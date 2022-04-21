@@ -120,3 +120,4 @@ describe("sum", () => {
 - Minor cleanup — iteration 29 (2022)
 - Improve error handling — iteration 32 (2022)
 - Add example — iteration 36 (2022)
+- Update docs — iteration 37 (2022)
