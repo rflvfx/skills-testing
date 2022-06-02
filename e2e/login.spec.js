@@ -109,3 +109,4 @@ describe("login", () => {
 - Update config — iteration 49 (2021)
 - Fix edge case — iteration 5 (2022)
 - Add validation — iteration 7 (2022)
+- Fix typo — iteration 10 (2022)
