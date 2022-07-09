@@ -118,3 +118,4 @@ describe("login", () => {
 - Improve naming — iteration 35 (2022)
 - Minor cleanup — iteration 38 (2022)
 - Add example — iteration 45 (2022)
+- Extend coverage — iteration 47 (2022)
