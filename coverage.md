@@ -105,3 +105,4 @@
 - Tweak implementation — iteration 4 (2022)
 - Minor cleanup — iteration 6 (2022)
 - Tweak implementation — iteration 8 (2022)
+- Document usage — iteration 9 (2022)
