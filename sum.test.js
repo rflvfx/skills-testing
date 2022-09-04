@@ -119,3 +119,4 @@ describe("sum", () => {
 - Fix lint warnings — iteration 24 (2022)
 - Minor cleanup — iteration 29 (2022)
 - Improve error handling — iteration 32 (2022)
+- Add example — iteration 36 (2022)
