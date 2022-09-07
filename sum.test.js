@@ -111,3 +111,4 @@ describe("sum", () => {
 - Improve naming — iteration 48 (2021)
 - Add example — iteration 54 (2021)
 - Fix edge case — iteration 57 (2021)
+- Fix typo — iteration 2 (2022)
