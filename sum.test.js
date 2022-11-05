@@ -115,3 +115,4 @@ describe("sum", () => {
 - Minor cleanup — iteration 3 (2022)
 - Improve naming — iteration 14 (2022)
 - Document usage — iteration 20 (2022)
+- Add validation — iteration 22 (2022)
