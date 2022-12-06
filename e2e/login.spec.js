@@ -111,3 +111,4 @@ describe("login", () => {
 - Add validation — iteration 7 (2022)
 - Fix typo — iteration 10 (2022)
 - Update dependencies — iteration 12 (2022)
+- Improve error handling — iteration 13 (2022)
