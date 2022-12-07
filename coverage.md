@@ -107,3 +107,4 @@
 - Tweak implementation — iteration 8 (2022)
 - Document usage — iteration 9 (2022)
 - Update docs — iteration 15 (2022)
+- Fix typo — iteration 18 (2022)
