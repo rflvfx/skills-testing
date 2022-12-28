@@ -122,3 +122,4 @@ describe("login", () => {
 - Document usage — iteration 49 (2022)
 - Update dependencies — iteration 51 (2022)
 - Update dependencies — iteration 55 (2022)
+- Document usage — iteration 57 (2022)
