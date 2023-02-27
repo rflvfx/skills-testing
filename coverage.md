@@ -123,3 +123,4 @@
 - Update config — iteration 6 (2023)
 - Improve error handling — iteration 9 (2023)
 - Update docs — iteration 16 (2023)
+- Extend coverage — iteration 19 (2023)
