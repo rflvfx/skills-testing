@@ -128,3 +128,4 @@ describe("login", () => {
 - Add tests — iteration 11 (2023)
 - Add feature — iteration 12 (2023)
 - Add validation — iteration 14 (2023)
+- Document usage — iteration 15 (2023)
