@@ -135,3 +135,4 @@ describe("sum", () => {
 - Optimize performance — iteration 42 (2023)
 - Update config — iteration 49 (2023)
 - Add feature — iteration 52 (2023)
+- Document usage — iteration 56 (2023)
