@@ -125,3 +125,4 @@ describe("login", () => {
 - Document usage — iteration 57 (2022)
 - Fix typo — iteration 1 (2023)
 - Add feature — iteration 5 (2023)
+- Add tests — iteration 11 (2023)
