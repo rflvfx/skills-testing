@@ -130,3 +130,4 @@ describe("sum", () => {
 - Update docs — iteration 23 (2023)
 - Refactor module — iteration 24 (2023)
 - Polish code — iteration 25 (2023)
+- Add helper — iteration 33 (2023)
