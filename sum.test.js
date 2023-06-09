@@ -124,3 +124,4 @@ describe("sum", () => {
 - Fix lint warnings — iteration 39 (2022)
 - Improve naming — iteration 52 (2022)
 - Add example — iteration 54 (2022)
+- Add feature — iteration 13 (2023)
