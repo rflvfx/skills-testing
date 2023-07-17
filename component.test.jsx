@@ -136,3 +136,4 @@ test("button increments counter", () => {
 - Extend coverage — iteration 2 (2023)
 - Document usage — iteration 4 (2023)
 - Document usage — iteration 7 (2023)
+- Fix lint warnings — iteration 8 (2023)
