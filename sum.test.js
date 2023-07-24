@@ -125,3 +125,4 @@ describe("sum", () => {
 - Improve naming — iteration 52 (2022)
 - Add example — iteration 54 (2022)
 - Add feature — iteration 13 (2023)
+- Improve naming — iteration 20 (2023)
