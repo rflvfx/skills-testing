@@ -139,3 +139,4 @@ describe("login", () => {
 - Update dependencies — iteration 47 (2023)
 - Document usage — iteration 48 (2023)
 - Extend coverage — iteration 57 (2023)
+- Fix edge case — iteration 58 (2023)
