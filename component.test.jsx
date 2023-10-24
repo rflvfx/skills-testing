@@ -135,3 +135,4 @@ test("button increments counter", () => {
 - Fix typo — iteration 58 (2022)
 - Extend coverage — iteration 2 (2023)
 - Document usage — iteration 4 (2023)
+- Document usage — iteration 7 (2023)
