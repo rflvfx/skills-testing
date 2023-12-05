@@ -132,3 +132,4 @@ describe("sum", () => {
 - Polish code — iteration 25 (2023)
 - Add helper — iteration 33 (2023)
 - Improve naming — iteration 37 (2023)
+- Optimize performance — iteration 42 (2023)
