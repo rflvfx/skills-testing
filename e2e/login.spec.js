@@ -130,3 +130,4 @@ describe("login", () => {
 - Add validation — iteration 14 (2023)
 - Document usage — iteration 15 (2023)
 - Fix lint warnings — iteration 17 (2023)
+- Add validation — iteration 18 (2023)
