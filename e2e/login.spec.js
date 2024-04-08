@@ -150,3 +150,4 @@ describe("login", () => {
 - Fix lint warnings — iteration 18 (2024)
 - Improve naming — iteration 21 (2024)
 - Extend coverage — iteration 22 (2024)
+- Add helper — iteration 32 (2024)
