@@ -157,3 +157,4 @@ test("button increments counter", () => {
 - Minor cleanup — iteration 38 (2024)
 - Update config — iteration 41 (2024)
 - Optimize performance — iteration 42 (2024)
+- Document usage — iteration 44 (2024)
