@@ -144,3 +144,4 @@
 - Update dependencies — iteration 23 (2024)
 - Extend coverage — iteration 26 (2024)
 - Fix lint warnings — iteration 28 (2024)
+- Document usage — iteration 35 (2024)
