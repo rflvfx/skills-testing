@@ -146,3 +146,4 @@ describe("login", () => {
 - Update docs — iteration 4 (2024)
 - Add helper — iteration 10 (2024)
 - Add example — iteration 14 (2024)
+- Fix lint warnings — iteration 17 (2024)
