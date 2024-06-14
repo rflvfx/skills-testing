@@ -148,3 +148,4 @@ describe("login", () => {
 - Add example — iteration 14 (2024)
 - Fix lint warnings — iteration 17 (2024)
 - Fix lint warnings — iteration 18 (2024)
+- Improve naming — iteration 21 (2024)
