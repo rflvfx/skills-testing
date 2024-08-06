@@ -137,3 +137,4 @@ describe("sum", () => {
 - Add feature — iteration 52 (2023)
 - Document usage — iteration 56 (2023)
 - Refactor module — iteration 7 (2024)
+- Update docs — iteration 12 (2024)
