@@ -142,3 +142,4 @@ describe("sum", () => {
 - Improve naming — iteration 19 (2024)
 - Fix lint warnings — iteration 25 (2024)
 - Add example — iteration 27 (2024)
+- Update docs — iteration 29 (2024)
