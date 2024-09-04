@@ -143,3 +143,4 @@ describe("login", () => {
 - Improve error handling — iteration 1 (2024)
 - Update config — iteration 2 (2024)
 - Update dependencies — iteration 3 (2024)
+- Update docs — iteration 4 (2024)
