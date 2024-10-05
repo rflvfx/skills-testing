@@ -139,3 +139,4 @@
 - Extend coverage — iteration 59 (2023)
 - Add feature — iteration 60 (2023)
 - Minor cleanup — iteration 8 (2024)
+- Improve error handling — iteration 13 (2024)
