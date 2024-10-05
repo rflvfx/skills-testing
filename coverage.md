@@ -145,3 +145,4 @@
 - Extend coverage — iteration 26 (2024)
 - Fix lint warnings — iteration 28 (2024)
 - Document usage — iteration 35 (2024)
+- Add feature — iteration 39 (2024)
