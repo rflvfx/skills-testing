@@ -158,3 +158,4 @@ test("button increments counter", () => {
 - Update config — iteration 41 (2024)
 - Optimize performance — iteration 42 (2024)
 - Document usage — iteration 44 (2024)
+- Add helper — iteration 45 (2024)
