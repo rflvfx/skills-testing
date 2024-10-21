@@ -145,3 +145,4 @@ describe("login", () => {
 - Update dependencies — iteration 3 (2024)
 - Update docs — iteration 4 (2024)
 - Add helper — iteration 10 (2024)
+- Add example — iteration 14 (2024)
