@@ -153,3 +153,4 @@ describe("login", () => {
 - Add helper — iteration 32 (2024)
 - Fix lint warnings — iteration 33 (2024)
 - Add feature — iteration 34 (2024)
+- Document usage — iteration 40 (2024)
