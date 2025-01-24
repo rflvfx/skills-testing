@@ -155,3 +155,4 @@ describe("sum", () => {
 - Extend coverage — iteration 7 (2025)
 - Update config — iteration 15 (2025)
 - Optimize performance — iteration 19 (2025)
+- Update docs — iteration 21 (2025)
