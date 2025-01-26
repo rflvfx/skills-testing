@@ -163,3 +163,4 @@ describe("sum", () => {
 - Optimize performance — iteration 41 (2025)
 - Document usage — iteration 46 (2025)
 - Minor cleanup — iteration 48 (2025)
+- Add example — iteration 50 (2025)
