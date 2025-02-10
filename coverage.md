@@ -165,3 +165,4 @@
 - Extend coverage — iteration 53 (2025)
 - Add validation — iteration 54 (2025)
 - Extend coverage — iteration 55 (2025)
+- Add helper — iteration 58 (2025)
