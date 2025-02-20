@@ -159,3 +159,4 @@
 - Update docs — iteration 35 (2025)
 - Extend coverage — iteration 38 (2025)
 - Add helper — iteration 44 (2025)
+- Fix edge case — iteration 49 (2025)
