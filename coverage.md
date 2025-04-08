@@ -153,3 +153,4 @@
 - Polish code — iteration 13 (2025)
 - Improve naming — iteration 16 (2025)
 - Add tests — iteration 18 (2025)
+- Fix typo — iteration 25 (2025)
