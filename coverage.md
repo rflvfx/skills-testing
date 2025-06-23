@@ -157,3 +157,4 @@
 - Update dependencies — iteration 29 (2025)
 - Add example — iteration 33 (2025)
 - Update docs — iteration 35 (2025)
+- Extend coverage — iteration 38 (2025)
