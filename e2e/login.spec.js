@@ -157,3 +157,4 @@ describe("login", () => {
 - Improve error handling — iteration 48 (2024)
 - Improve error handling — iteration 52 (2024)
 - Polish code — iteration 3 (2025)
+- Add tests — iteration 6 (2025)
