@@ -156,3 +156,4 @@ describe("sum", () => {
 - Update config — iteration 15 (2025)
 - Optimize performance — iteration 19 (2025)
 - Update docs — iteration 21 (2025)
+- Add validation — iteration 26 (2025)
