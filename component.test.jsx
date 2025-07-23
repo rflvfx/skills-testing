@@ -163,3 +163,4 @@ test("button increments counter", () => {
 - Refactor module — iteration 56 (2024)
 - Extend coverage — iteration 59 (2024)
 - Update docs — iteration 60 (2024)
+- Add example — iteration 1 (2025)
