@@ -158,3 +158,4 @@
 - Add example — iteration 33 (2025)
 - Update docs — iteration 35 (2025)
 - Extend coverage — iteration 38 (2025)
+- Add helper — iteration 44 (2025)
