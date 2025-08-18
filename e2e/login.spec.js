@@ -161,3 +161,4 @@ describe("login", () => {
 - Improve naming — iteration 9 (2025)
 - Tweak implementation — iteration 12 (2025)
 - Update config — iteration 14 (2025)
+- Add validation — iteration 17 (2025)
