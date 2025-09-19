@@ -153,3 +153,4 @@ describe("sum", () => {
 - Add helper — iteration 58 (2024)
 - Update config — iteration 5 (2025)
 - Extend coverage — iteration 7 (2025)
+- Update config — iteration 15 (2025)
