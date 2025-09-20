@@ -164,3 +164,4 @@ test("button increments counter", () => {
 - Extend coverage — iteration 59 (2024)
 - Update docs — iteration 60 (2024)
 - Add example — iteration 1 (2025)
+- Minor cleanup — iteration 4 (2025)
