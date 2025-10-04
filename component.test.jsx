@@ -167,3 +167,4 @@ test("button increments counter", () => {
 - Minor cleanup — iteration 4 (2025)
 - Fix edge case — iteration 8 (2025)
 - Polish code — iteration 10 (2025)
+- Improve error handling — iteration 11 (2025)
