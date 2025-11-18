@@ -175,3 +175,4 @@ test("button increments counter", () => {
 - Minor cleanup — iteration 34 (2025)
 - Minor cleanup — iteration 42 (2025)
 - Refactor module — iteration 43 (2025)
+- Add helper — iteration 45 (2025)
