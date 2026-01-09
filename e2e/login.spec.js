@@ -173,3 +173,4 @@ describe("login", () => {
 - Update config — iteration 6 (2026)
 - Tweak implementation — iteration 8 (2026)
 - Update config — iteration 11 (2026)
+- Add tests — iteration 18 (2026)
