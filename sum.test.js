@@ -168,3 +168,4 @@ describe("sum", () => {
 - Update config — iteration 60 (2025)
 - Document usage — iteration 7 (2026)
 - Minor cleanup — iteration 9 (2026)
+- Extend coverage — iteration 14 (2026)
