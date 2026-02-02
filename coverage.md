@@ -168,3 +168,4 @@
 - Add helper — iteration 58 (2025)
 - Tweak implementation — iteration 59 (2025)
 - Add tests — iteration 3 (2026)
+- Refactor module — iteration 4 (2026)
