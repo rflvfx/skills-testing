@@ -175,3 +175,4 @@ describe("sum", () => {
 - Polish code — iteration 28 (2026)
 - Tweak implementation — iteration 30 (2026)
 - Fix lint warnings — iteration 33 (2026)
+- Improve naming — iteration 38 (2026)
