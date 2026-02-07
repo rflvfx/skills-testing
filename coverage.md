@@ -172,3 +172,4 @@
 - Update config — iteration 5 (2026)
 - Fix lint warnings — iteration 12 (2026)
 - Add helper — iteration 13 (2026)
+- Minor cleanup — iteration 15 (2026)
