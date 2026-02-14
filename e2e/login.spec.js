@@ -177,3 +177,4 @@ describe("login", () => {
 - Document usage — iteration 19 (2026)
 - Add helper — iteration 25 (2026)
 - Extend coverage — iteration 26 (2026)
+- Polish code — iteration 32 (2026)
