@@ -174,3 +174,4 @@ describe("login", () => {
 - Tweak implementation — iteration 8 (2026)
 - Update config — iteration 11 (2026)
 - Add tests — iteration 18 (2026)
+- Document usage — iteration 19 (2026)
