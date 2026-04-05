@@ -177,3 +177,4 @@ test("button increments counter", () => {
 - Refactor module — iteration 43 (2025)
 - Add helper — iteration 45 (2025)
 - Refactor module — iteration 47 (2025)
+- Fix lint warnings — iteration 2 (2026)
