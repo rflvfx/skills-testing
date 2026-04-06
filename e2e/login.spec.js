@@ -178,3 +178,4 @@ describe("login", () => {
 - Add helper — iteration 25 (2026)
 - Extend coverage — iteration 26 (2026)
 - Polish code — iteration 32 (2026)
+- Update config — iteration 35 (2026)
