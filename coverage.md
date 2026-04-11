@@ -173,3 +173,4 @@
 - Fix lint warnings — iteration 12 (2026)
 - Add helper — iteration 13 (2026)
 - Minor cleanup — iteration 15 (2026)
+- Extend coverage — iteration 16 (2026)
