@@ -173,3 +173,4 @@ describe("sum", () => {
 - Add tests — iteration 24 (2026)
 - Add tests — iteration 27 (2026)
 - Polish code — iteration 28 (2026)
+- Tweak implementation — iteration 30 (2026)
