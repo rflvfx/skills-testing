@@ -166,3 +166,4 @@ describe("sum", () => {
 - Add example — iteration 50 (2025)
 - Fix lint warnings — iteration 56 (2025)
 - Update config — iteration 60 (2025)
+- Document usage — iteration 7 (2026)
