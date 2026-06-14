@@ -176,3 +176,4 @@ describe("login", () => {
 - Add tests — iteration 18 (2026)
 - Document usage — iteration 19 (2026)
 - Add helper — iteration 25 (2026)
+- Extend coverage — iteration 26 (2026)
