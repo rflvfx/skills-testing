@@ -175,3 +175,4 @@ describe("login", () => {
 - Update config — iteration 11 (2026)
 - Add tests — iteration 18 (2026)
 - Document usage — iteration 19 (2026)
+- Add helper — iteration 25 (2026)
