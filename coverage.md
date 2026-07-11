@@ -167,3 +167,4 @@
 - Extend coverage — iteration 55 (2025)
 - Add helper — iteration 58 (2025)
 - Tweak implementation — iteration 59 (2025)
+- Add tests — iteration 3 (2026)
