@@ -169,3 +169,4 @@ describe("sum", () => {
 - Document usage — iteration 7 (2026)
 - Minor cleanup — iteration 9 (2026)
 - Extend coverage — iteration 14 (2026)
+- Add tests — iteration 22 (2026)
