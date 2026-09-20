@@ -177,3 +177,4 @@ describe("sum", () => {
 - Fix lint warnings — iteration 33 (2026)
 - Improve naming — iteration 38 (2026)
 - Fix typo — iteration 43 (2026)
+- Document usage — iteration 44 (2026)
