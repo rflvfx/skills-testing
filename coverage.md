@@ -174,3 +174,4 @@
 - Add helper — iteration 13 (2026)
 - Minor cleanup — iteration 15 (2026)
 - Extend coverage — iteration 16 (2026)
+- Improve naming — iteration 17 (2026)
