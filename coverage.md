@@ -183,3 +183,4 @@
 - Add feature — iteration 40 (2026)
 - Improve error handling — iteration 41 (2026)
 - Add example — iteration 46 (2026)
+- Extend coverage — iteration 51 (2026)
