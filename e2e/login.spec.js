@@ -182,3 +182,4 @@ describe("login", () => {
 - Document usage — iteration 36 (2026)
 - Extend coverage — iteration 42 (2026)
 - Update docs — iteration 45 (2026)
+- Tweak implementation — iteration 47 (2026)
